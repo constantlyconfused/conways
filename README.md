@@ -1,2 +1,3 @@
 # conways
-Simulation of Conways game of life
+Simulation of Conways game of life.  
+https://constantlyconfused.github.io/conways/
